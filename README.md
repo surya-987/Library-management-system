@@ -52,5 +52,5 @@ o Stores users, books, and issued book records persistently
 
 ---
 
-✨ **Author:** **Surya Oduri**
+
 
